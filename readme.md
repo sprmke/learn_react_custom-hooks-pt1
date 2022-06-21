@@ -1,4 +1,4 @@
-# Learn React: Custom Hooks Pt1 (Increment & Decrement Counter App)
+# Learn React: Custom Hooks Pt1 (useCounter)
 
 ##### Course:
 
